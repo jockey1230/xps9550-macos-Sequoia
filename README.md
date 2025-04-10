@@ -1,6 +1,6 @@
 # xps9550-macos-Sequoia
 
-[English Version](README_EN.md) | [中文版本](README.md)
+[English](README_EN.md) | [中文](README.md)
 
 ## 版本信息
 
